@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  color: white;
+}
+
+.Header-top-line {
+  background-color: #804288;
+  width: 100%;
+  height: 10%;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  margin: 0;
+}
+
+.Header-top-line h1 {
+  margin: 0;
+}
+
+
