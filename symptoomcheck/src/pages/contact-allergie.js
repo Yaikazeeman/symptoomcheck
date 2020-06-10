@@ -4,7 +4,7 @@ export default class ContactAllergie extends Component {
     render() {
         return (
             <div>
-                <p>contact-allergie advies</p>
+                <h1>contact-allergie advies</h1>
             </div>
         )
     }

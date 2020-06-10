@@ -1,0 +1,18 @@
+.tekstContainer{
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.headText{
+    text-align: center;
+}
+
+.adviesProducten{
+    display: flex;
+    justify-content: space-around;
+}
+
+.adviesProducten a p{
+    text-align: center;
+}

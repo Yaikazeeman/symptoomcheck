@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 export default class vraag7 extends Component {
     render() {
         return (
-            <div>
+            <div className="symptoomcheck-div">
                 <h2>Mijn hond is jonger dan 6 maanden.</h2>
                 <div className="antwoord-div">
                     <Link to="/huidmijt" className="antwoord-knop">
