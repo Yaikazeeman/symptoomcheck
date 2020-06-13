@@ -6,7 +6,7 @@ export default class vraag3 extends Component {
     render() {
         return (
             <div className="symptoomcheck-div">
-                <h2>Ik heb de vacht van mijn dier gecontroleerd met een vlooienkam en ik kan geen vlooien of vlooienpoepjes vinden.</h2>
+                <h2>Ik heb de vacht van mijn dier gecontroleerd met een vlooienkam en ik kan geen vlooien of vlooienuitwerpselen vinden.</h2>
                 <div className="antwoord-div">
                     <Link to="/vraag4" className="antwoord-knop">
                         <div className='start-knop'>

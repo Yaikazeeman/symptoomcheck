@@ -24,6 +24,8 @@
 
 .start-knop-link{
     width: 40%;
+    text-decoration: none;
+    font-weight: 500;
 }
 
 .start-knop{
@@ -35,9 +37,19 @@
 
 .antwoord-knop{
     width: 25%;
+    text-decoration: none;
 }
 
 .antwoord-div{
     display: flex;
     justify-content: space-evenly;
+}
+
+.disclaimer{
+    text-align: left;
+    margin: 5% auto;
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px 25px;
 }
