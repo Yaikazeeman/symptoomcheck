@@ -6,7 +6,7 @@ export default class vraag5 extends Component {
     render() {
         return (
             <div className="symptoomcheck-div">
-                <h2>Mijn hond heeft alleen jeuk en een rode huid op de buik, tussen de liezen en onder de poten?</h2>
+                <h2>Mijn hond heeft alleen jeuk en een rode huid op de buik, tussen de liezen en/of onder de poten?</h2>
                 <div className="antwoord-div">
                     <Link to="/contact-allergie" className="antwoord-knop">
                         <div className='start-knop'>

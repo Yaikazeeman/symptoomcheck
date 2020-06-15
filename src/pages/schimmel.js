@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './advies.css';
 
 export default class schimmel extends Component {
     render() {
