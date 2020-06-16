@@ -17,14 +17,15 @@ import Vraag5 from './components/Vraag5';
 import Vraag6 from './components/Vraag6';
 import Vraag7 from './components/Vraag7';
 import StartScreen from "./components/StartScreen";
-
+import {Link} from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
+      <div className="content-div">
       <header className="App-header">
         <div className="Header-top-line">
-          <h1>Symptoomcheck</h1>
+           <h1>Symptoomcheck</h1>
         </div>
       </header>
       <Router>
@@ -47,8 +48,9 @@ function App() {
         <Route path="/vlooien" component={Vlooien} />
         </Switch>
       </Router>
+      </div>
       <footer className="footer">
-
+        <p>Copyright @ 2020  Yaika Zeeman</p>
       </footer>
     </div>
   );
