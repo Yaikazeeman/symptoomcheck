@@ -1,22 +1,22 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-import ContactAllergie from './pages/contact-allergie';
-import Vlooien from './pages/vlooien';
-import StekendeInsecten from './pages/stekende-insecten';
-import Schimmel from './pages/schimmel';
-import Oormijt from './pages/oormijt';
-import Huidmijt from './pages/huidmijt';
-import Gisten from './pages/gisten';
-import GeenUitkomst from './pages/geen-duidelijkheid';
-import Vraag1 from './components/vraag1';
-import Vraag2 from './components/vraag2';
-import Vraag3 from './components/vraag3';
-import Vraag4 from './components/vraag4';
-import Vraag5 from './components/vraag5';
-import Vraag6 from './components/vraag6';
-import Vraag7 from './components/vraag7';
-import StartScreen from "./components/startScreen";
+import ContactAllergie from './pages/ContactAllergie';
+import Vlooien from './pages/Vlooien';
+import StekendeInsecten from './pages/StekendeInsecten';
+import Schimmel from './pages/Schimmel';
+import Oormijt from './pages/Oormijt';
+import Huidmijt from './pages/Huidmijt';
+import Gisten from './pages/Gisten';
+import GeenUitkomst from './pages/GeenDuidelijkheid';
+import Vraag1 from './components/Vraag1';
+import Vraag2 from './components/Vraag2';
+import Vraag3 from './components/Vraag3';
+import Vraag4 from './components/Vraag4';
+import Vraag5 from './components/Vraag5';
+import Vraag6 from './components/Vraag6';
+import Vraag7 from './components/Vraag7';
+import StartScreen from "./components/StartScreen";
 
 
 function App() {
